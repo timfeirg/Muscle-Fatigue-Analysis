@@ -1,0 +1,10 @@
+## Muscle Fatigue Analysis Based On sEMG Signals - The Final Project For Human Motion Analysis Course
+
+In this project we demostrate how to measure the extent of fatig by calculating the change of median frequency over time.
+This repository is meant to provide a backup for our team so the readme isn't going to be exquisite.
+
+*Note that in our MATLAB program, median frequency isn't exactly calculated by definition, but to my best knowledge it still serve the purpose*
+
+![the change of median frequency over time](1.lvm_median.png)
+
+![the change of RMS over time](1.lvm_RMS.png)
